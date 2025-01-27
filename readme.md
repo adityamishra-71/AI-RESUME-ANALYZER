@@ -1,4 +1,4 @@
-# AI Analyser App
+# AI Resume Analyser App
 
 ## Features
 - User's & Admin Section
